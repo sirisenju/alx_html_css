@@ -4,4 +4,4 @@ HTML
 CSS
 JavaScript
 Below is a sample of the website under construction
-<img src="School%20Page%402x.png" alt="page design">
+<img src="images/School%20Page%402x.png" alt="page design">
