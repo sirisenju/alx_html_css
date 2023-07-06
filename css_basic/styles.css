@@ -1,0 +1,33 @@
+body, main {
+    display: flex;
+}
+
+body {
+    flex-direction: column;
+    background-color: gainsboro;
+}
+
+footer {
+    border-top: 3px;
+    border-style: solid;
+    
+}
+
+main {
+    flex-direction: row;
+    flex: auto;
+}
+
+article {
+    flex: 2;
+    overflow-y: auto;
+}
+
+aside{
+    flex: 1;
+    overflow-y: auto;
+}
+
+.logo {
+    color: red;
+}
