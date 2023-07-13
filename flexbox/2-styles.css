@@ -526,8 +526,7 @@ html {
   }
 
   /* Section Latest news ============================= */
-
-  .row .section-latest-news {
+  .section-latest-news .container .section-body ul.row {
     flex-direction: row-reverse;
   }
   
